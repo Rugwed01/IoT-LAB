@@ -1,8 +1,5 @@
 # 🌐 IoT Lab Experiments Repository
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
-
 ---
 
 ## 📘 Overview
@@ -138,8 +135,8 @@ Please include proper documentation with your contributions.
 
 ## 👨‍🔬 IoT Experiments Maintained By
 
-- **Name**: Ameen Khan  
-- **PRN**: 22070521007  
+- **Name**: Rugwed Yawalkar  
+- **PRN**: 22070521010  
 - **Section**: A
 
 ---
